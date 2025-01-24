@@ -1,6 +1,6 @@
 i=3
 a=3
-1=2
+
 print(i==2)
 
 print(i>7)
@@ -25,4 +25,5 @@ if i==0 and a!=5:
     print("eiei")
 else:
     print("false")
+
     
