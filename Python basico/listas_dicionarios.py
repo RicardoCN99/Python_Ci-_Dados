@@ -4,7 +4,7 @@ while(a!=4):
 
     a=int(a)
     lista=[1,2,3.4,"ui"]
-    lista.append(["aiai",3,True])
+    lista.append(["aiai",3,True]) # acrescenta lista a lista com um unico elemento
     if(a==1):
         print("ai")
         print(1+1)
