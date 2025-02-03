@@ -1,0 +1,5 @@
+,Company,When first passed,When first passed,When first passed
+,Company,$1 trillion,$2 trillion,$3 trillion
+0,Apple,2 August 2018,19 August 2020,3 January 2022
+1,Nvidia,30 May 2023,23 February 2024,5 June 2024
+2,Microsoft,25 April 2019,22 June 2021,24 January 2024
