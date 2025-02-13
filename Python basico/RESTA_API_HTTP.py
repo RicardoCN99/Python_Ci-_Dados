@@ -2,7 +2,6 @@ import requests
 
 url="https://pt.wikipedia.org/wiki/Wiki" 
 
-
 r=requests.get(url) #pedido get ao servidor
 
 print(r.status_code)
